@@ -49,6 +49,7 @@ switch(accion) {
   break;
   default:
     console.log('\nNo entiendo que quieres hacer\n');
+    console.log("Parte 3 - prueba 2 conflictos y uso de pull")
 }
 
 console.log("Prueba de github y detección de cambios")
